@@ -1,2 +1,6 @@
+第一种启动方式： 调用cwp.py设置临时系统环境变量
 D:\ProgramData\Anaconda3\pythonw.exe D:\ProgramData\Anaconda3\cwp.py D:\ProgramData\Anaconda3 
 D:\ProgramData\Anaconda3\pythonw.exe D:\ProgramData\Anaconda3\Scripts\spyder-script.py
+
+第二种启动方式：
+D:\ProgramData\Anaconda3\envs\PyTorch_1_6\pythonw.exe D:\ProgramData\Anaconda3\envs\PyTorch_1_6\Scripts\spyder-script.py
